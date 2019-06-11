@@ -3,7 +3,7 @@
 The power curve of a wind turbine is a graph that indicates how large the electrical power output will be for the turbine at different 
 wind speeds. The figure below shows a sketch a how the power output from a wind turbine varies with steady wind speed.
 
-[power](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/power.png)
+![power](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/power.png)
 
 The wind turbine power curve shows the relationship between the wind turbine power and hub height wind speed. It essentially captures the wind turbine performance. Hence it plays an important role in condition monitoring and control of wind turbines. Power curves made available by the manufacturers help in estimating the wind energy potential in a candidate site. Accurate models of power curve serve as an important tool in wind power forecasting and aid in wind farm expansion.
 
@@ -26,41 +26,41 @@ Objective of this project is to perform independent analysis of the wind-turbine
 
 **Wind Speed Distribution**
 
-[WindDist](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/monthlyWindDist.png)
+![WindDist](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/monthlyWindDist.png)
 
 **Annual Wind Direction**
 
-[AirDir](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/AnnulWindDirection.png)
+![AirDir](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/AnnulWindDirection.png)
 
 **Air Density Distribution**
 
-[AirDist](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/AirDist.png)
+![AirDist](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/AirDist.png)
 
 **Annual Power Curve**
 
-[PowerCurve](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/AnnualPowerCurve.png)
+![PowerCurve](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/AnnualPowerCurve.png)
 
 **Correlation Plot**
 
-[corr](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/Corr.png)
+![corr](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/Corr.png)
 
 ### Models
 
 **Polynomial Models**
 
-[poly](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/Poly.png)
+![poly](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/Poly.png)
 
 **Random Forest Regression Power Curve**
 
-[rf](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/rf.png)
+![rf](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/rf.png)
 
 **Gradient Boosting Regression Power Curve**
 
-[gb](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/gb.png)
+![gb](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/gb.png)
 
 **XGBoost Regression Power Curve**
 
-[xgb](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/xgb.png)
+![xgb](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/xgb.png)
 
 ### Conclusion
 
