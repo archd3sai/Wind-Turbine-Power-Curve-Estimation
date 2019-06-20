@@ -1,7 +1,7 @@
 # Wind Turbine Power Curve Estimation
 
 The power curve of a wind turbine is a graph that indicates how large the electrical power output will be for the turbine at different 
-wind speeds. The figure below shows a sketch a how the power output from a wind turbine varies with steady wind speed.
+wind speeds. The figure below shows a sketch about how the power output from a wind turbine varies with steady wind speed.
 
 ![power](https://github.com/archd3sai/Wind-Turbine-Power-Curve-Estimation/blob/master/Images/power.png)
 
